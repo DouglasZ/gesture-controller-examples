@@ -2,7 +2,7 @@
 
 ## Preview
 
-<img width=100% src="https://douglasz.github.io/gesture-controller-examples/initial-template/assets/demo-template-lg.gif">
+<img width=100% src="./initial-template/assets/demo-template-lg.gif">
 
 ## Live demo
 
