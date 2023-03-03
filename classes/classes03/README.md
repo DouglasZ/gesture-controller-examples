@@ -10,7 +10,7 @@
 
 ## Live demo
 
-- Para testar o projeto final (clique aqui)
+- Projeto 03 final ([clique aqui](https://douglasz.github.io/gesture-controller-examples/classes/classes03))
 
 ## Running
 
